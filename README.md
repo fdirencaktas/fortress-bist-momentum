@@ -28,14 +28,16 @@ A comprehensive backtesting framework for evaluating momentum and mean reversion
 - 📐 Parameter sensitivity plots
 
 ## 🖼️ Result
+
 Strategies Performancence Analysis:
-![Strategies Performancence Analysis](bist_momentum_strategies_performancence_.png)
+![Strategies Performancence Analysis](results/bist_momentum_strategies_performancence_.png)
+
 Strategy & Benchmark Correlation Matrix:
-![Strategy & Benchmark Correlation Matrix](strategy&benchmark_correlation.png)
+![Strategy & Benchmark Correlation Matrix](results/strategy&benchmark_correlation.png)
 Sector Performance Analysis:
-![Sector Performance Analysis](sector_performance_analysis.png)
+![Sector Performance Analysis](results/sector_performance_analysis.png)
 Parameter Sensitivity Analysis:
-![Parameter Sensitivity Analysis](parameter_sensitivity.png)
+![Parameter Sensitivity Analysis](results/parameter_sensitivity.png)
 
 
 ## 🚀 Quick Start
